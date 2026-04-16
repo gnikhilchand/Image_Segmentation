@@ -81,7 +81,7 @@ The goal is to develop an accurate and efficient pipeline for medical image anal
 ---
 
 ## 📷 Sample Output
-
+![OFDM Constellations](download.png)
 ---
 
 ## 🚀 How to Run
